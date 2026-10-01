@@ -74,35 +74,35 @@ La lista inicia con cinco estudiantes de ejemplo (Ana, Luis, Camila, Diego y Sof
 
 ### Página inicial
 
-![Página inicial con los botones](/capturas/01-inicio.png.png)
+![Página inicial con los botones](/capturas/01-inicio.png)
 
 ### Menú principal
 
-![Menú principal de la aplicación](capturas/02-menu.png)
+![Menú principal de la aplicación](/capturas/02-menu.png)
 
 ### Ver estudiantes
 
-![Lista de estudiantes con sus notas](capturas/03-ver-estudiantes.png)
+![Lista de estudiantes con sus notas](/capturas/03-ver-estudiantes.png)
 
 ### Agregar un estudiante
 
-![Alta de un nuevo estudiante](capturas/04-agregar-estudiante.png)
+![Alta de un nuevo estudiante](/capturas/04-agregar-estudiante.png)
 
 ### Promedios
 
-![Promedio de cada estudiante](capturas/05-promedios.png)
+![Promedio de cada estudiante](/capturas/05-promedios.png)
 
 ### Aprobados
 
-![Lista de estudiantes aprobados](capturas/06-aprobados.png)
+![Lista de estudiantes aprobados](/capturas/06-aprobados.png)
 
 ### Reprobados
 
-![Lista de estudiantes reprobados](capturas/07-reprobados.png)
+![Lista de estudiantes reprobados](/capturas/07-reprobados.png)
 
 ### Validación de entradas
 
-![Aviso de validación ante una entrada incorrecta](capturas/08-validacion.png)
+![Aviso de validación ante una entrada incorrecta](/capturas/8-validacion.png)
 
 ## Estructura del proyecto
 
