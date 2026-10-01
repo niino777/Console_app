@@ -74,7 +74,7 @@ La lista inicia con cinco estudiantes de ejemplo (Ana, Luis, Camila, Diego y Sof
 
 ### Página inicial
 
-![Página inicial con los botones](capturas/01-inicio.png)
+![Página inicial con los botones](/capturas/01-inicio.png.png)
 
 ### Menú principal
 
